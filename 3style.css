@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+  font-size:62.5%;
+  font-size: 10px;
+  font-size: 1rem;
+  
+}
+
+.istimage{
+    height: 100vh;
+    width: 100vw;
+}
+ .secondimage{
+    background-size: cover;
+   background-repeat: no-repeat;
+   height:70%;
+   width:100%;
+   display: block;
+   
+ }
+ .thirdimage{
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:70%;
+    width:100%;
+    display: block;
+  }
+  .isttopic{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  color: aqua;
+  background-color: black;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  
+  
+  display: block;
+  }
+  .section{
+    width: 100%;
+    height: 5%;
+   text-align: center;
+   
+   background-color: black;
+   color: white;
+   padding: 2rem;
+   font-size: 3rem;
+   
+   }
+   .s1{
+    color: white;
+    width: 100%;
+    
+   }
+   .vishal{
+    background-color: black;
+    width: 100%;
+   }
+   .section2{
+    width: 100%;
+    height: 5%;
+   text-align: center;
+   
+   background-color: black;
+   color: white;
+   padding: 2rem;
+   font-size: 3rem;
+   }
+   .section3{
+    width: 100%;
+    height: 5%;
+   text-align: center;
+   
+   background-color: black;
+   color: white;
+   padding: 2rem;
+   font-size: 3rem;
+   }
+  
+  
+  
+  
+
+
